@@ -10,3 +10,9 @@ def function(x, y):
     return x
 
 print(function(2, 2))
+
+
+def div(x, y):
+    return x / y
+
+print(div(3.0, 5.0))
